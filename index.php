@@ -9,7 +9,7 @@
     <div class="jumbotron" id="jumbotron-index">
       <h1><span class="tittles-pages-logo">Cat Electronics</span> <small style="color: #fff;">El Salvador</small></h1>
       <p>
-          Bienvenido a nuestra tienda en linea, aquí encontrara una gran variedad de artículos para el hogar.
+          Bienvenido a nuestra tienda en linea, E-comerce.
       </p>
     </div>
     <section id="new-prod-index">
